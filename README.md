@@ -69,7 +69,3 @@ The assembled robot was physically tested on the off-white tiled arena with a bl
 - **Autonomous movement:** the robot searched, detected, and reacted to the arena boundary and a nearby object without manual intervention.
 
 No timed runs, competition results, or quantitative performance measurements were recorded, so none are reported here.
-
-## Media
-
-Photographs and a demonstration video of the physical robot are planned but not yet added to this repository. They will be linked here once available, rather than referenced as placeholder files.
