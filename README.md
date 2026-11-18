@@ -67,5 +67,3 @@ The assembled robot was physically tested on the off-white tiled arena with a bl
 - **Boundary avoidance:** the IR sensors correctly detected the black boundary line and triggered the escape (hard brake + reverse/forward) behavior.
 - **Opponent detection:** the front and rear ultrasonic sensors detected a nearby object and triggered the attack (drive-toward) behavior.
 - **Autonomous movement:** the robot searched, detected, and reacted to the arena boundary and a nearby object without manual intervention.
-
-No timed runs, competition results, or quantitative performance measurements were recorded, so none are reported here.
